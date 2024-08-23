@@ -1,0 +1,23 @@
+name: modulome
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.7
+  - matplotlib=3.5.3
+  - pandas=1.3.5
+  - adjusttext=0.7.3.1
+  - notebook
+  - seaborn=0.12.2
+  - numpy=1.21.5
+  - jupyterlab
+  - scipy=1.7.3
+  - entrez-direct=16.2
+  - tqdm=4.64.1
+  - ipywidgets=7.6.5
+  - mpi4py=3.1.4
+  - openmpi=4.0.5
+  - scikit-learn=1.0.2
+  - nextflow=22.10.0
+  - pymodulon=0.2.1
